@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="mist cedre blanc">
+  <defs>
+    <linearGradient id="bg-mist-cedre-blanc" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#F7F1F2"/>
+      <stop offset="1" stop-color="#E4CDD2"/>
+    </linearGradient>
+    <radialGradient id="halo-mist-cedre-blanc" cx="0.5" cy="0.36" r="0.62">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold-mist-cedre-blanc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.46" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="body-mist-cedre-blanc" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.4" stop-color="#FDF7F4"/>
+      <stop offset="1" stop-color="#EBD9D3"/>
+    </linearGradient>
+    <linearGradient id="tone-mist-cedre-blanc" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#E4CDD2"/>
+      <stop offset="1" stop-color="#B08F9A"/>
+    </linearGradient>
+    <linearGradient id="toneDeep-mist-cedre-blanc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B08F9A"/>
+      <stop offset="1" stop-color="#7B6169"/>
+    </linearGradient>
+    <radialGradient id="floor-mist-cedre-blanc" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gloss-mist-cedre-blanc" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-mist-cedre-blanc)"/>
+  <circle cx="400" cy="360" r="350" fill="url(#halo-mist-cedre-blanc)"/>
+  <path d="M-40 690 C 180 600, 250 820, 430 780 C 620 738, 700 900, 860 830 L 860 1010 L -40 1010 Z"
+        fill="#FFFFFF" fill-opacity="0.42"/>
+  <ellipse cx="400" cy="818" rx="215" ry="42" fill="url(#floor-mist-cedre-blanc)"/>
+  <g fill="url(#tone-mist-cedre-blanc)" opacity="0.5">
+    <path d="M164 268 c 26 -30 66 -22 70 12 c 3 30 -30 52 -58 40 c -19 -8 -24 -34 -12 -52 z"/>
+    <path d="M636 322 c 22 -26 58 -18 60 12 c 2 26 -27 45 -51 34 c -16 -7 -19 -30 -9 -46 z"/>
+    <path d="M214 604 c 18 -22 49 -15 51 10 c 2 22 -23 38 -43 29 c -14 -6 -17 -25 -8 -39 z"/>
+    <path d="M648 640 c 16 -20 44 -13 45 9 c 2 20 -20 34 -38 26 c -13 -6 -15 -23 -7 -35 z"/>
+  </g>
+  <g>
+    <rect x="352" y="288" width="96" height="118" rx="14" fill="url(#gold-mist-cedre-blanc)"/>
+    <rect x="368" y="300" width="22" height="94" rx="11" fill="#FFFFFF" fill-opacity="0.3"/>
+    <rect x="318" y="404" width="164" height="46" rx="14" fill="url(#body-mist-cedre-blanc)"/>
+    <path d="M312 452 C 312 440 340 434 400 434 C 460 434 488 440 488 452 L 488 782 C 488 800 464 812 400 812 C 336 812 312 800 312 782 Z"
+          fill="url(#body-mist-cedre-blanc)"/>
+    <path d="M326 540 C 326 526 344 518 400 518 C 456 518 474 526 474 540 L 474 772 C 474 786 456 794 400 794 C 344 794 326 786 326 772 Z"
+          fill="url(#tone-mist-cedre-blanc)" opacity="0.8"/>
+    <path d="M312 452 C 312 440 340 434 400 434 C 460 434 488 440 488 452 L 488 782 C 488 800 464 812 400 812 C 336 812 312 800 312 782 Z"
+          fill="none" stroke="url(#gold-mist-cedre-blanc)" stroke-width="4"/>
+    <rect x="336" y="470" width="26" height="270" rx="13" fill="url(#gloss-mist-cedre-blanc)" opacity="0.65"/>
+    <rect x="348" y="576" width="104" height="132" rx="10" fill="#FFFFFF" fill-opacity="0.72"/>
+    
+  <g transform="translate(400 664) scale(0.9)" opacity="0.9">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="34" letter-spacing="6" fill="url(#gold-mist-cedre-blanc)">VE</text>
+  </g>
+  </g>
+</svg>

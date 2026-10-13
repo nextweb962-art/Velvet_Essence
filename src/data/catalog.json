@@ -1,0 +1,759 @@
+[
+  {
+    "id": "0a000000-0000-4000-8000-000000000001",
+    "slug": "velvet-noir",
+    "name": "فيلفت نوار",
+    "tagline": "أحمر شفاه مخملي خفيف على الشفاه",
+    "description": "لمسة واحدة تكفي لتغطية كاملة بلون مشبع لا يتحرّك من مكانه. زيت ثمر الورد والسكوالان يحافظان على ملمس ناعم رطب بدل المظهر الجاف، فيبدو اللون كصبغة كشميرية على الشفاه. يأتي داخل أنبوب من الذهب الوردي المصقول بإغلاق مغناطيسي.",
+    "category": "lipstick",
+    "collection": "لا فيلور",
+    "price": 27,
+    "compare_at_price": 33,
+    "images": ["/products/lipstick-velvet-noir.svg", "/collections/lipstick.svg", "/hero.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "vermeil", "name": "فيرميّ", "hex": "#C4677A", "image": "/products/lipstick-petal-milk.svg", "stock": 24 },
+          { "id": "rose-ink", "name": "روز إنك", "hex": "#B76E79", "image": "/products/lipstick-rose-de-maison.svg", "stock": 31 },
+          { "id": "nude-cashmere", "name": "نيود كشمير", "hex": "#C08A78", "image": "/products/lipstick-nude-atelier.svg", "stock": 12 },
+          { "id": "velvet-noir", "name": "فيلفت نوار", "hex": "#7A1F2B", "image": "/products/lipstick-velvet-noir.svg", "stock": 40 },
+          { "id": "rouge-velours", "name": "روج فيلور", "hex": "#B13B4B", "image": "/products/lipstick-rouge-velours.svg", "stock": 6 }
+        ]
+      }
+    ],
+    "badge": "الأكثر مبيعاً",
+    "rating": 4.9,
+    "review_count": 1284,
+    "stock": 113,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["مطفي", "ثابت طويلاً", "نباتي", "الأكثر مبيعاً", "مخملي"],
+    "created_at": "2026-08-14T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000002",
+    "slug": "rose-de-maison",
+    "name": "روز دو ميزون",
+    "tagline": "أحمر شفاه ساتان كريمي",
+    "description": "وردة الدار، ناعمة بزبدة المورومورو حتى تمنحك تغطية ساتان مبطّنة. رأس الأنبوب مشطوف ليساعدك على التحديد دون قلم، ثم يظهر اللون بلمعة تخرج من داخل الشفاه وتناسب كل درجات البشرة.",
+    "category": "lipstick",
+    "collection": "لا فيلور",
+    "price": 26,
+    "compare_at_price": null,
+    "images": ["/products/lipstick-rose-de-maison.svg", "/collections/lipstick.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "rose-ink", "name": "روز إنك", "hex": "#B76E79", "image": "/products/lipstick-rose-de-maison.svg", "stock": 33 },
+          { "id": "peony-tea", "name": "شاي البيوني", "hex": "#D79184", "image": "/products/lipstick-petal-milk.svg", "stock": 28 },
+          { "id": "bare-silk", "name": "سيلك بيير", "hex": "#C99C8E", "image": "/products/lipstick-nude-atelier.svg", "stock": 17 },
+          { "id": "rouge-velours", "name": "روج فيلور", "hex": "#B13B4B", "image": "/products/lipstick-rouge-velours.svg", "stock": 21 }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 842,
+    "stock": 99,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["ساتان", "مرطّب", "نباتي", "للاستخدام اليومي"],
+    "created_at": "2026-08-21T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000003",
+    "slug": "nude-atelier",
+    "name": "نيود أتيليه",
+    "tagline": "أحمر شفاه بلون البشرة الطبيعي",
+    "description": "تسعة أشهر من مطابقة الألوان أنتجت هذه المجموعة من درجات النيود التي تبدو كالبشرة لا كالكريم المخفي. ذرّة من مسحوق السيراميك تنعّم ملمس الشفاه، وزيت الجوجوبا المعصور على البارد يحافظ على مرونة اللون.",
+    "category": "lipstick",
+    "collection": "لا فيلور",
+    "price": 24,
+    "compare_at_price": 28,
+    "images": ["/products/lipstick-nude-atelier.svg", "/collections/lipstick.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "nude-cashmere", "name": "نيود كشمير", "hex": "#C08A78", "image": "/products/lipstick-nude-atelier.svg", "stock": 44 },
+          { "id": "sand-silk", "name": "سيلك رملي", "hex": "#D3A48F", "image": "/products/lipstick-petal-milk.svg", "stock": 30 },
+          { "id": "spiced-fig", "name": "تين متبّل", "hex": "#9E5F5B", "image": "/products/lipstick-rouge-velours.svg", "stock": 19 }
+        ]
+      }
+    ],
+    "badge": "جديد",
+    "rating": 4.7,
+    "review_count": 391,
+    "stock": 93,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["نيود", "ناعم", "للاستخدام اليومي", "نباتي"],
+    "created_at": "2026-09-24T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000004",
+    "slug": "rouge-velours",
+    "name": "روج فيلور",
+    "tagline": "أحمر شفاه عالي التصبّغ",
+    "description": "الأحمر الذي عُرفنا به. قرمزي مائل للأزرق بتغطية كاملة من مرور واحد، مبطّن بزبدة الشيا حتى لا يتسرّب ولا يجفّ. تظهر درجته في الصور حقيقية تحت الإضاءة الدافئة والباردة على حد سواء.",
+    "category": "lipstick",
+    "collection": "لا فيلور",
+    "price": 27,
+    "compare_at_price": null,
+    "images": ["/products/lipstick-rouge-velours.svg", "/collections/lipstick.svg", "/hero.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "rouge-velours", "name": "روج فيلور", "hex": "#B13B4B", "image": "/products/lipstick-rouge-velours.svg", "stock": 36 },
+          { "id": "brick-rose", "name": "برِك روزيه", "hex": "#9C4A44", "image": "/products/lipstick-nude-atelier.svg", "stock": 22 },
+          { "id": "vin-noir", "name": "فان نوار", "hex": "#6E1F2C", "image": "/products/lipstick-velvet-noir.svg", "stock": 14 }
+        ]
+      }
+    ],
+    "badge": "كلاسيكي",
+    "rating": 4.9,
+    "review_count": 976,
+    "stock": 72,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["أحمر", "تصبّغ عالٍ", "ثابت طويلاً", "كلاسيكي"],
+    "created_at": "2026-07-30T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000005",
+    "slug": "petal-milk",
+    "name": "بتال ميلك",
+    "tagline": "بلسم شفاه ملوّن شفّاف",
+    "description": "لمن تريد لمسة لون فقط ولا شيء غيرها. خالٍ من اللانولين، بفيتامين هـ وزيت بذور التوت، يذوب على الشفاه خلال دقائق ويترك خلفه صبغة ناعمة تكفي بقية اليوم.",
+    "category": "lipstick",
+    "collection": "طقوس يومية",
+    "price": 23,
+    "compare_at_price": null,
+    "images": ["/products/lipstick-petal-milk.svg", "/collections/lipstick.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "اللمسة",
+        "display": "swatch",
+        "options": [
+          { "id": "milk-petal", "name": "بتلة حليب", "hex": "#F0C2C4", "image": "/products/lipstick-petal-milk.svg", "stock": 52 },
+          { "id": "rosewater", "name": "ماء الورد", "hex": "#D79184", "image": "/products/lipstick-rose-de-maison.svg", "stock": 48 },
+          { "id": "berry-milk", "name": "حليب التوت", "hex": "#B76E79", "image": "/products/lipstick-velvet-noir.svg", "stock": 37 }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 528,
+    "stock": 137,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["بلسم", "شفّاف", "مرطّب", "للاستخدام اليومي"],
+    "created_at": "2026-06-11T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000006",
+    "slug": "atelier-rose-palette",
+    "name": "أتيليه روزيه",
+    "tagline": "باليت ظلال عيون من اثني عشر لوناً",
+    "description": "اثنتا عشرة بتلة مضغوطة في علبة واحدة: ست درجات ساتان، وأربع معدنية، ومات كريمي اثنان. القوام زبدي وقابل للدمج دون تطاير، والمرآة كبيرة بما يكفي للاستخدام فعلاً، مع دليل الدرجات مطبوعاً داخل الغطاء.",
+    "category": "eyeshadow",
+    "collection": "أتيليه روزيه",
+    "price": 48,
+    "compare_at_price": 58,
+    "images": ["/products/palette-atelier-rose.svg", "/collections/makeup.svg", "/hero.svg"],
+    "variant_groups": [
+      {
+        "id": "edition",
+        "label": "الإصدار",
+        "display": "chip",
+        "options": [
+          { "id": "standard", "name": "العلبة الأساسية", "priceDelta": 0, "stock": 30, "caption": "١٢ لوناً" },
+          { "id": "gift", "name": "بعلبة هدية", "priceDelta": 8, "stock": 18, "caption": "شريط وبطاقة" }
+        ]
+      }
+    ],
+    "badge": "اختيار المحرر",
+    "rating": 4.9,
+    "review_count": 1102,
+    "stock": 48,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["باليت", "معدني", "مات", "قابل للدمج", "مرآة"],
+    "created_at": "2026-08-02T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000007",
+    "slug": "nuit-bloomee-palette",
+    "name": "باليت نوي بلوميه",
+    "tagline": "باليت ظلال للسهرات",
+    "description": "عشر درجات مبنية حول الساعة التي تلي الغروب: دخان مَوف، ولمعة بلون الدم الغامق، وقلم كريمي بلون البرقوق المسوّد. الألوان مخبوزة لا مرشوشة، لذلك تبقى اللمعة المعدنية كما هي حتى آخر قطعة.",
+    "category": "eyeshadow",
+    "collection": "نوي بلوميه",
+    "price": 51,
+    "compare_at_price": null,
+    "images": ["/products/palette-nuit-bloomee.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "edition",
+        "label": "الإصدار",
+        "display": "chip",
+        "options": [
+          { "id": "standard", "name": "العلبة الأساسية", "priceDelta": 0, "stock": 26, "caption": "١٠ ألوان" },
+          { "id": "gift", "name": "بعلبة هدية", "priceDelta": 8, "stock": 11, "caption": "شريط وبطاقة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 634,
+    "stock": 37,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["باليت", "سموكي", "للسهرات", "لامع"],
+    "created_at": "2026-09-05T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000008",
+    "slug": "petal-twelve",
+    "name": "بتال تويلف",
+    "tagline": "باليت درجات ناعمة للنهار",
+    "description": "باليت النهار. اثنتا عشرة درجة محايدة مائلة قليلاً للدافئ، مرتّبة بحيث تشكّل أي ثلاث درجات متجاورة عيناً مكتملة. خالٍ من التلك ومضغوط بالسكوالان لقوام كريمي يتحوّل إلى بودرة.",
+    "category": "eyeshadow",
+    "collection": "طقوس يومية",
+    "price": 41,
+    "compare_at_price": 47,
+    "images": ["/products/palette-petal-12.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "edition",
+        "label": "الإصدار",
+        "display": "chip",
+        "options": [
+          { "id": "standard", "name": "العلبة الأساسية", "priceDelta": 0, "stock": 41, "caption": "١٢ لوناً" },
+          { "id": "gift", "name": "بعلبة هدية", "priceDelta": 8, "stock": 20, "caption": "شريط وبطاقة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 458,
+    "stock": 61,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["باليت", "درجات محايدة", "خالٍ من التلك", "للاستخدام اليومي"],
+    "created_at": "2026-05-19T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000009",
+    "slug": "gilt-bronze",
+    "name": "جيلت برونز",
+    "tagline": "باليت درجات معدنية دافئة",
+    "description": "ستّ درجات برونزية بملمس المعدن السائل، مع درجة شامبانيا واحدة للإضاءة، مضغوطة وهي رطبة لتحصل على ذلك المظهر المنصهر. طبّقيها شفّافة للنهار أو بلّلي الفرشاة لمظهر معدني كامل للسهرة.",
+    "category": "eyeshadow",
+    "collection": "أتيليه روزيه",
+    "price": 45,
+    "compare_at_price": null,
+    "images": ["/products/palette-gilt-bronze.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "edition",
+        "label": "الإصدار",
+        "display": "chip",
+        "options": [
+          { "id": "standard", "name": "العلبة الأساسية", "priceDelta": 0, "stock": 24, "caption": "٧ ألوان" },
+          { "id": "gift", "name": "بعلبة هدية", "priceDelta": 8, "stock": 8, "caption": "شريط وبطاقة" }
+        ]
+      }
+    ],
+    "badge": "إصدار محدود",
+    "rating": 4.8,
+    "review_count": 287,
+    "stock": 32,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["معدني", "برونزي", "إصدار محدود", "مطلي"],
+    "created_at": "2026-09-30T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000010",
+    "slug": "powder-flush",
+    "name": "باودر فلاش",
+    "tagline": "بلاشر بودرة حريري",
+    "description": "مطحون سبع مرات ليختفي في البشرة ولا يترك سوى اللون. يُبنى من نفخة وردية خفيفة إلى توهّج كامل بلمسة السبعينات، دون أي طبشور ودون لمعة.",
+    "category": "blush",
+    "collection": "طقوس يومية",
+    "price": 30,
+    "compare_at_price": null,
+    "images": ["/products/blush-powder-flush.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "first-flush", "name": "أول توهّج", "hex": "#E5A3A8", "image": "/products/blush-powder-flush.svg", "stock": 34 },
+          { "id": "rosewood", "name": "روزوود", "hex": "#B76E79", "image": "/products/blush-silk-rosewood.svg", "stock": 26 },
+          { "id": "apricot-veil", "name": "مشمش ناعم", "hex": "#E9B18E", "image": "/products/blush-cream-peony.svg", "stock": 19 }
+        ]
+      }
+    ],
+    "badge": "الأكثر مبيعاً",
+    "rating": 4.8,
+    "review_count": 712,
+    "stock": 79,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["بلاشر", "بودرة", "قابل للبناء", "مات"],
+    "created_at": "2026-07-08T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000011",
+    "slug": "cream-peony",
+    "name": "بلاشر بيوني",
+    "tagline": "بلاشر كريمي مخفوق",
+    "description": "كريم مخفوق يذوب عند اللمس ويتحوّل إلى بودرة ناعمة عند وضعه. دفّئيه بأطراف أصابعك واضغطيه على الوجنتين للحصول على توهّج يشبه دوران الدم لا مستحضرات التجميل.",
+    "category": "blush",
+    "collection": "طقوس يومية",
+    "price": 28,
+    "compare_at_price": 34,
+    "images": ["/products/blush-cream-peony.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدرجة",
+        "display": "swatch",
+        "options": [
+          { "id": "peony", "name": "بيوني", "hex": "#D79184", "image": "/products/blush-cream-peony.svg", "stock": 31 },
+          { "id": "petal-milk", "name": "بتلة حليب", "hex": "#F0C2C4", "image": "/products/blush-powder-flush.svg", "stock": 28 },
+          { "id": "fig-leaf", "name": "ورق التين", "hex": "#A9636E", "image": "/products/blush-silk-rosewood.svg", "stock": 12 }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 486,
+    "stock": 71,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["كريمي", "إشراق", "نباتي", "بأطراف الأصابع"],
+    "created_at": "2026-06-27T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000012",
+    "slug": "silk-rosewood",
+    "name": "سيلك روزوود",
+    "tagline": "دوات للتحديد والإشراق",
+    "description": "علبة فنية من درجتين: روزوود بارد للنحت، وسيلك دافئ للرفع، يفصلهما شريط معدني رقيق. صُمّمت لتُخلطا معاً على فرشاة واحدة للحصول على نتيجة بدرجة واحدة.",
+    "category": "blush",
+    "collection": "أتيليه روزيه",
+    "price": 33,
+    "compare_at_price": null,
+    "images": ["/products/blush-silk-rosewood.svg", "/collections/makeup.svg"],
+    "variant_groups": [
+      {
+        "id": "shade",
+        "label": "الدوات",
+        "display": "swatch",
+        "options": [
+          { "id": "rosewood-silk", "name": "روزوود / سيلك", "hex": "#B76E79", "image": "/products/blush-silk-rosewood.svg", "stock": 22 },
+          { "id": "clay-linen", "name": "طيني / كتاني", "hex": "#B5826F", "image": "/products/blush-cream-peony.svg", "stock": 15 }
+        ]
+      }
+    ],
+    "badge": "جديد",
+    "rating": 4.6,
+    "review_count": 174,
+    "stock": 37,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["دوات", "نحت", "كونتور", "احترافي"],
+    "created_at": "2026-09-18T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000013",
+    "slug": "nuit-bloomee-eau-de-parfum",
+    "name": "نوي بلوميه",
+    "tagline": "أو دو بارفان — توقيع الدار",
+    "description": "عطر الدار الأساسي. يفتح الياسمين المتفتّح ليلاً على الورد التركي والدمسون، ثم يستقرّ على العنبر الدافئ وحبّ التونكا وذرّة من خشب الأرز. مركّب في غراس ومتروك ينضج ستة أسابيع قبل التعبئة.",
+    "category": "fragrance",
+    "collection": "نوي بلوميه",
+    "price": 105,
+    "compare_at_price": null,
+    "images": ["/products/flacon-nuit-bloomee.svg", "/collections/perfume.svg", "/hero.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 24, "caption": "حجم السفر" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 38, "stock": 31, "caption": "الحجم الأساسي" },
+          { "id": "100ml", "name": "100 مل", "priceDelta": 92, "stock": 9, "caption": "حجم كبير" }
+        ]
+      }
+    ],
+    "badge": "التوقيع",
+    "rating": 5,
+    "review_count": 1436,
+    "stock": 64,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["زهري", "عنبر", "ياسمين", "للسهرات", "غراس"],
+    "created_at": "2026-04-02T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000014",
+    "slug": "rose-ambre",
+    "name": "روز أمبري",
+    "tagline": "أو دو بارفان",
+    "description": "ورد سنتيفوليا مقطّر عند الفجر، ملفوف ببذور الأمبريت وفانيليا بطيئة. عطر دافئ قريب من البشرة وفخم بهدوء — ذاك الذي يميل الناس نحوك ليعرفوا ما هو.",
+    "category": "fragrance",
+    "collection": "نوي بلوميه",
+    "price": 94,
+    "compare_at_price": 112,
+    "images": ["/products/flacon-rose-ambre.svg", "/collections/perfume.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 27, "caption": "حجم السفر" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 33, "stock": 22, "caption": "الحجم الأساسي" },
+          { "id": "100ml", "name": "100 مل", "priceDelta": 80, "stock": 6, "caption": "حجم كبير" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 692,
+    "stock": 55,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["ورد", "عنبر", "فانيليا", "دافئ", "رومانسي"],
+    "created_at": "2026-05-28T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000015",
+    "slug": "oud-velours",
+    "name": "عود فيلور",
+    "tagline": "إكستريه دو بارفان",
+    "description": "قراءة متحفّظة للعود: خشب لاوسي مهدّأ بالزعفران والبرقوق الأسود ومخمل من البنزوين. مركّز بنسبة 28٪، وأفضل ما يُستخدم على ياقة المعطف.",
+    "category": "fragrance",
+    "collection": "نوي بلوميه",
+    "price": 132,
+    "compare_at_price": null,
+    "images": ["/products/flacon-oud-velours.svg", "/collections/perfume.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "15ml", "name": "15 مل", "priceDelta": 0, "stock": 30, "caption": "إكستريه" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 118, "stock": 14, "caption": "الحجم الأساسي" }
+        ]
+      }
+    ],
+    "badge": "إصدار محدود",
+    "rating": 4.9,
+    "review_count": 321,
+    "stock": 44,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["عود", "إكستريه", "خشبي", "زعفران", "للجنسين"],
+    "created_at": "2026-09-12T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000016",
+    "slug": "fleur-dawn-mist",
+    "name": "فلير دون",
+    "tagline": "ميست للشعر والجسم",
+    "description": "غطاء صباحي ناعم من النيرولي وزهر الكمثرى والمسك الأبيض، مع مركّب بانثينول يعتني بالشعر. خفيف بما يكفي لإعادة رشّه في العمل دون أن يملأ المكان.",
+    "category": "fragrance",
+    "collection": "طقوس يومية",
+    "price": 38,
+    "compare_at_price": null,
+    "images": ["/products/mist-fleur-dawn.svg", "/collections/perfume.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "100ml", "name": "100 مل", "priceDelta": 0, "stock": 46, "caption": "للاستخدام اليومي" },
+          { "id": "200ml", "name": "200 مل", "priceDelta": 18, "stock": 21, "caption": "إعادة تعبئة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 407,
+    "stock": 67,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["ميست", "نيرولي", "منعش", "للشعر", "يومي"],
+    "created_at": "2026-07-21T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000017",
+    "slug": "lumiere-blanche",
+    "name": "لوميير بلانش",
+    "tagline": "أو دو بارفان",
+    "description": "مشرق ونظيف وبودري قليلاً: برغموت وسوسن على شامواه بيضاء وأثر من خشب جوز الهند. الخيار الأول للعرائس، وأكثر ما يُطلب منّا على الكاونتر.",
+    "category": "fragrance",
+    "collection": "أتيليه روزيه",
+    "price": 110,
+    "compare_at_price": 126,
+    "images": ["/products/flacon-lumiere-blanche.svg", "/collections/perfume.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 25, "caption": "حجم السفر" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 39, "stock": 29, "caption": "الحجم الأساسي" },
+          { "id": "100ml", "name": "100 مل", "priceDelta": 95, "stock": 12, "caption": "حجم كبير" }
+        ]
+      }
+    ],
+    "badge": "الأكثر مبيعاً",
+    "rating": 4.9,
+    "review_count": 874,
+    "stock": 66,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["سوسن", "شامواه", "نظيف", "للعرائس", "بودري"],
+    "created_at": "2026-06-04T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000018",
+    "slug": "cedre-blanc-mist",
+    "name": "سيدر بلان",
+    "tagline": "ميست للشعر والجسم",
+    "description": "ورق الأرز والتين المجفّف ورشّة من ملح البحر. بروح مشتركة بين الجنسين، يُركَّب بجمال تحت روز أمبري ويختفي في المكان دون أن يعلن عن نفسه.",
+    "category": "fragrance",
+    "collection": "طقوس يومية",
+    "price": 41,
+    "compare_at_price": null,
+    "images": ["/products/mist-cedre-blanc.svg", "/collections/perfume.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "100ml", "name": "100 مل", "priceDelta": 0, "stock": 38, "caption": "للاستخدام اليومي" },
+          { "id": "200ml", "name": "200 مل", "priceDelta": 18, "stock": 17, "caption": "إعادة تعبئة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.7,
+    "review_count": 289,
+    "stock": 55,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["أرز", "تين", "للجنسين", "منعش", "للتركيب"],
+    "created_at": "2026-08-27T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000019",
+    "slug": "glasshouse-glow-serum",
+    "name": "سيروم غلاسهاوس غلو",
+    "tagline": "سيروم نياسيناميد وفيتامين سي",
+    "description": "سيروم يومي خفيف بنسبة 10٪ نياسيناميد و3٪ فيتامين سي ثابت وثلاثي من الهيالورونيك. أثبت سريرياً توحيد لون البشرة خلال أربع أسابيع، بدرجة حموضة تتحمّلها بشرتك دون تهيّج.",
+    "category": "skincare",
+    "collection": "غلاسهاوس",
+    "price": 61,
+    "compare_at_price": 70,
+    "images": ["/products/serum-glasshouse-glow.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 42, "caption": "يكفي ٦ أسابيع" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 25, "stock": 24, "caption": "أفضل قيمة" }
+        ]
+      }
+    ],
+    "badge": "الأكثر طلباً",
+    "rating": 4.9,
+    "review_count": 2138,
+    "stock": 66,
+    "is_active": true,
+    "is_featured": true,
+    "tags": ["سيروم", "نياسيناميد", "فيتامين سي", "إشراقة", "مختبر جلدياً"],
+    "created_at": "2026-03-15T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000020",
+    "slug": "rosewater-dew-serum",
+    "name": "سيروم ماء الورد",
+    "tagline": "سيروم مرطّب بماء الورد الدمشقي",
+    "description": "ماء ورد دمشقي، وحمض البوليغلوتاميك، والبيتا غلوكان في تركيبة جيل تحفظ الماء في البشرة اثنتي عشرة ساعة. بارد عند اللمس، مثالي تحت المكياج وبعد التعرّض للشمس.",
+    "category": "skincare",
+    "collection": "غلاسهاوس",
+    "price": 55,
+    "compare_at_price": null,
+    "images": ["/products/serum-rosewater-dew.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 36, "caption": "يكفي ٦ أسابيع" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 22, "stock": 19, "caption": "أفضل قيمة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 946,
+    "stock": 55,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["ترطيب", "ورد", "مهدّئ", "للتركيب"],
+    "created_at": "2026-05-06T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000021",
+    "slug": "nuit-balm",
+    "name": "نوي بالم",
+    "tagline": "بالم ليلي لترميم البشرة",
+    "description": "بالم ليلي كثيف لكن يتنفّس، من السيراميد والسكوالان والبانثينول، يحبس كل ما وضعته تحته. تستيقظين ببشرة ممتلئة من جديد لا مغطّاة بطبقة ثقيلة.",
+    "category": "skincare",
+    "collection": "نوي بلوميه",
+    "price": 44,
+    "compare_at_price": null,
+    "images": ["/products/jar-nuit-balm.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "50ml", "name": "50 مل", "priceDelta": 0, "stock": 40, "caption": "برطمان" },
+          { "id": "100ml", "name": "100 مل", "priceDelta": 25, "stock": 16, "caption": "عبوة إعادة تعبئة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 558,
+    "stock": 56,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["بالم", "سيراميد", "ليلي", "حاجز البشرة", "بدون عطر"],
+    "created_at": "2026-07-14T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000022",
+    "slug": "peony-cream",
+    "name": "كريم بيوني",
+    "tagline": "كريم نهاري خفيف",
+    "description": "كريم نهاري مخفوق ببيبتيد-6 ومستخلص جذر البيوني، بلمسة نهائية تنعّم البشرة وتعمل كقاعدة تحت المكياج. يتشرّب خلال أقل من دقيقة دون أي إحساس سليكوني.",
+    "category": "skincare",
+    "collection": "غلاسهاوس",
+    "price": 50,
+    "compare_at_price": 57,
+    "images": ["/products/jar-peony-cream.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "50ml", "name": "50 مل", "priceDelta": 0, "stock": 44, "caption": "برطمان" },
+          { "id": "100ml", "name": "100 مل", "priceDelta": 28, "stock": 18, "caption": "عبوة إعادة تعبئة" }
+        ]
+      }
+    ],
+    "badge": "جديد",
+    "rating": 4.7,
+    "review_count": 412,
+    "stock": 62,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["مرطّب", "ببتيدات", "قاعدة مكياج", "نهاري", "خفيف"],
+    "created_at": "2026-09-08T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000023",
+    "slug": "vitamin-silk-serum",
+    "name": "فيتامين سيلك",
+    "tagline": "سيروم لترميم حاجز البشرة",
+    "description": "سيروم هادئ وحليبي للبشرة الحساسة: 5٪ بانثينول، ودهون الشوفان، ومزيج سيراميد في قاعدة خالية من العطر. صُمّم للأسبوع الذي يلي جلسة علاج أو تفاعل مزعج.",
+    "category": "skincare",
+    "collection": "غلاسهاوس",
+    "price": 52,
+    "compare_at_price": null,
+    "images": ["/products/serum-vitamin-silk.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "30ml", "name": "30 مل", "priceDelta": 0, "stock": 39, "caption": "يكفي ٦ أسابيع" },
+          { "id": "50ml", "name": "50 مل", "priceDelta": 20, "stock": 15, "caption": "أفضل قيمة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.8,
+    "review_count": 367,
+    "stock": 54,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["حاجز البشرة", "للبشرة الحساسة", "بدون عطر", "بانثينول"],
+    "created_at": "2026-06-19T09:00:00Z"
+  },
+  {
+    "id": "0a000000-0000-4000-8000-000000000024",
+    "slug": "bloom-tonic-mist",
+    "name": "تونيك بلوم",
+    "tagline": "ميست تونيك مقشّر يومي",
+    "description": "تونيك حمضي يومي بنسبة 4٪ حمض اللاكتيك، ولحاء الصفصاف، والغليسرين. رشّة واحدة بعد التنظيف، بلا قطن وبلا لسعة — فقط بشرة أصفى وأكثر نعومة يوماً بعد يوم.",
+    "category": "skincare",
+    "collection": "غلاسهاوس",
+    "price": 34,
+    "compare_at_price": null,
+    "images": ["/products/mist-tonic-bloom.svg", "/collections/skincare.svg"],
+    "variant_groups": [
+      {
+        "id": "size",
+        "label": "الحجم",
+        "display": "chip",
+        "options": [
+          { "id": "100ml", "name": "100 مل", "priceDelta": 0, "stock": 48, "caption": "للاستخدام اليومي" },
+          { "id": "200ml", "name": "200 مل", "priceDelta": 17, "stock": 22, "caption": "إعادة تعبئة" }
+        ]
+      }
+    ],
+    "badge": null,
+    "rating": 4.6,
+    "review_count": 523,
+    "stock": 70,
+    "is_active": true,
+    "is_featured": false,
+    "tags": ["تونيك", "حمض اللاكتيك", "مقشّر", "تجديد"],
+    "created_at": "2026-08-09T09:00:00Z"
+  }
+]

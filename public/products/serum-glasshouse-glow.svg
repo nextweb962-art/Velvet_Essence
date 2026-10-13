@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="serum glasshouse glow">
+  <defs>
+    <linearGradient id="bg-serum-glasshouse-glow" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FFFBF2"/>
+      <stop offset="1" stop-color="#F0E2C4"/>
+    </linearGradient>
+    <radialGradient id="halo-serum-glasshouse-glow" cx="0.5" cy="0.36" r="0.62">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold-serum-glasshouse-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.46" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="body-serum-glasshouse-glow" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.4" stop-color="#FDF7F4"/>
+      <stop offset="1" stop-color="#EBD9D3"/>
+    </linearGradient>
+    <linearGradient id="tone-serum-glasshouse-glow" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="1" stop-color="#E3CD9C"/>
+    </linearGradient>
+    <linearGradient id="toneDeep-serum-glasshouse-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E3CD9C"/>
+      <stop offset="1" stop-color="#C9A961"/>
+    </linearGradient>
+    <radialGradient id="floor-serum-glasshouse-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gloss-serum-glasshouse-glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-serum-glasshouse-glow)"/>
+  <circle cx="400" cy="360" r="350" fill="url(#halo-serum-glasshouse-glow)"/>
+  <path d="M-40 690 C 180 600, 250 820, 430 780 C 620 738, 700 900, 860 830 L 860 1010 L -40 1010 Z"
+        fill="#FFFFFF" fill-opacity="0.42"/>
+  <ellipse cx="400" cy="818" rx="215" ry="42" fill="url(#floor-serum-glasshouse-glow)"/>
+  <g fill="url(#tone-serum-glasshouse-glow)" opacity="0.5">
+    <path d="M164 268 c 26 -30 66 -22 70 12 c 3 30 -30 52 -58 40 c -19 -8 -24 -34 -12 -52 z"/>
+    <path d="M636 322 c 22 -26 58 -18 60 12 c 2 26 -27 45 -51 34 c -16 -7 -19 -30 -9 -46 z"/>
+    <path d="M214 604 c 18 -22 49 -15 51 10 c 2 22 -23 38 -43 29 c -14 -6 -17 -25 -8 -39 z"/>
+    <path d="M648 640 c 16 -20 44 -13 45 9 c 2 20 -20 34 -38 26 c -13 -6 -15 -23 -7 -35 z"/>
+  </g>
+  <g>
+    <rect x="374" y="452" width="52" height="72" rx="8" fill="url(#body-serum-glasshouse-glow)"/>
+    <rect x="348" y="312" width="104" height="146" rx="22" fill="url(#gold-serum-glasshouse-glow)"/>
+    <rect x="362" y="326" width="24" height="118" rx="12" fill="#FFFFFF" fill-opacity="0.28"/>
+    <path d="M292 556 C 292 528 322 512 400 512 C 478 512 508 528 508 556 L 508 776 C 508 800 484 812 400 812 C 316 812 292 800 292 776 Z"
+          fill="url(#body-serum-glasshouse-glow)"/>
+    <path d="M306 620 C 306 600 324 588 400 588 C 476 588 494 600 494 620 L 494 766 C 494 782 476 790 400 790 C 324 790 306 782 306 766 Z"
+          fill="url(#tone-serum-glasshouse-glow)" opacity="0.85"/>
+    <path d="M292 556 C 292 528 322 512 400 512 C 478 512 508 528 508 556 L 508 776 C 508 800 484 812 400 812 C 316 812 292 800 292 776 Z"
+          fill="none" stroke="url(#gold-serum-glasshouse-glow)" stroke-width="4"/>
+    <rect x="322" y="552" width="28" height="218" rx="14" fill="url(#gloss-serum-glasshouse-glow)" opacity="0.65"/>
+    <rect x="340" y="642" width="120" height="86" rx="10" fill="#FFFFFF" fill-opacity="0.75"/>
+    
+  <g transform="translate(400 696) scale(0.85)" opacity="0.9">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="34" letter-spacing="6" fill="url(#gold-serum-glasshouse-glow)">VE</text>
+  </g>
+  </g>
+</svg>

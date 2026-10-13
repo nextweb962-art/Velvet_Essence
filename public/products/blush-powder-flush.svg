@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="blush powder flush">
+  <defs>
+    <linearGradient id="bg-blush-powder-flush" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FEF7F7"/>
+      <stop offset="1" stop-color="#F6DADA"/>
+    </linearGradient>
+    <radialGradient id="halo-blush-powder-flush" cx="0.5" cy="0.36" r="0.62">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold-blush-powder-flush" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.46" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="body-blush-powder-flush" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.4" stop-color="#FDF7F4"/>
+      <stop offset="1" stop-color="#EBD9D3"/>
+    </linearGradient>
+    <linearGradient id="tone-blush-powder-flush" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#F8DADA"/>
+      <stop offset="1" stop-color="#E5A3A8"/>
+    </linearGradient>
+    <linearGradient id="toneDeep-blush-powder-flush" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E5A3A8"/>
+      <stop offset="1" stop-color="#D7848C"/>
+    </linearGradient>
+    <radialGradient id="floor-blush-powder-flush" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gloss-blush-powder-flush" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-blush-powder-flush)"/>
+  <circle cx="400" cy="360" r="350" fill="url(#halo-blush-powder-flush)"/>
+  <path d="M-40 690 C 180 600, 250 820, 430 780 C 620 738, 700 900, 860 830 L 860 1010 L -40 1010 Z"
+        fill="#FFFFFF" fill-opacity="0.42"/>
+  <ellipse cx="400" cy="818" rx="215" ry="42" fill="url(#floor-blush-powder-flush)"/>
+  <g fill="url(#tone-blush-powder-flush)" opacity="0.5">
+    <path d="M164 268 c 26 -30 66 -22 70 12 c 3 30 -30 52 -58 40 c -19 -8 -24 -34 -12 -52 z"/>
+    <path d="M636 322 c 22 -26 58 -18 60 12 c 2 26 -27 45 -51 34 c -16 -7 -19 -30 -9 -46 z"/>
+    <path d="M214 604 c 18 -22 49 -15 51 10 c 2 22 -23 38 -43 29 c -14 -6 -17 -25 -8 -39 z"/>
+    <path d="M648 640 c 16 -20 44 -13 45 9 c 2 20 -20 34 -38 26 c -13 -6 -15 -23 -7 -35 z"/>
+  </g>
+  <g>
+    <circle cx="400" cy="640" r="196" fill="url(#body-blush-powder-flush)"/>
+    <circle cx="400" cy="640" r="196" fill="none" stroke="url(#gold-blush-powder-flush)" stroke-width="6"/>
+    <circle cx="400" cy="640" r="164" fill="url(#tone-blush-powder-flush)" opacity="0.9"/>
+    <circle cx="400" cy="640" r="164" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3"/>
+    <path d="M400 476 A 164 164 0 0 1 564 640 L 400 640 Z" fill="#FFFFFF" fill-opacity="0.22"/>
+    <g stroke="url(#gold-blush-powder-flush)" stroke-width="3" opacity="0.75" fill="none">
+      <circle cx="400" cy="640" r="118"/>
+      <circle cx="400" cy="640" r="72"/>
+    </g>
+    
+  <g transform="translate(400 640) scale(1.15)" opacity="0.9">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="34" letter-spacing="6" fill="url(#gold-blush-powder-flush)">VE</text>
+  </g>
+  </g>
+</svg>

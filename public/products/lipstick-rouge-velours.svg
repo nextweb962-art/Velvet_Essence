@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="lipstick rouge velours">
+  <defs>
+    <linearGradient id="bg-lipstick-rouge-velours" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FDF5F3"/>
+      <stop offset="1" stop-color="#EFC7C0"/>
+    </linearGradient>
+    <radialGradient id="halo-lipstick-rouge-velours" cx="0.5" cy="0.36" r="0.62">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold-lipstick-rouge-velours" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.46" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="body-lipstick-rouge-velours" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.4" stop-color="#FDF7F4"/>
+      <stop offset="1" stop-color="#EBD9D3"/>
+    </linearGradient>
+    <linearGradient id="tone-lipstick-rouge-velours" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#D7848C"/>
+      <stop offset="1" stop-color="#B13B4B"/>
+    </linearGradient>
+    <linearGradient id="toneDeep-lipstick-rouge-velours" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B13B4B"/>
+      <stop offset="1" stop-color="#7A1F2B"/>
+    </linearGradient>
+    <radialGradient id="floor-lipstick-rouge-velours" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gloss-lipstick-rouge-velours" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-lipstick-rouge-velours)"/>
+  <circle cx="400" cy="360" r="350" fill="url(#halo-lipstick-rouge-velours)"/>
+  <path d="M-40 690 C 180 600, 250 820, 430 780 C 620 738, 700 900, 860 830 L 860 1010 L -40 1010 Z"
+        fill="#FFFFFF" fill-opacity="0.42"/>
+  <ellipse cx="400" cy="818" rx="215" ry="42" fill="url(#floor-lipstick-rouge-velours)"/>
+  <g fill="url(#tone-lipstick-rouge-velours)" opacity="0.5">
+    <path d="M164 268 c 26 -30 66 -22 70 12 c 3 30 -30 52 -58 40 c -19 -8 -24 -34 -12 -52 z"/>
+    <path d="M636 322 c 22 -26 58 -18 60 12 c 2 26 -27 45 -51 34 c -16 -7 -19 -30 -9 -46 z"/>
+    <path d="M214 604 c 18 -22 49 -15 51 10 c 2 22 -23 38 -43 29 c -14 -6 -17 -25 -8 -39 z"/>
+    <path d="M648 640 c 16 -20 44 -13 45 9 c 2 20 -20 34 -38 26 c -13 -6 -15 -23 -7 -35 z"/>
+  </g>
+  <g>
+    <rect x="338" y="566" width="124" height="252" rx="24" fill="url(#gold-lipstick-rouge-velours)"/>
+    <rect x="346" y="596" width="108" height="222" rx="18" fill="#FFFFFF" fill-opacity="0.16"/>
+    <rect x="352" y="486" width="96" height="92" rx="10" fill="url(#body-lipstick-rouge-velours)"/>
+    <rect x="352" y="486" width="96" height="14" rx="6" fill="url(#gold-lipstick-rouge-velours)" opacity="0.85"/>
+    <path d="M356 500 L444 500 L444 372 C 444 322 402 296 400 296 C 398 296 356 322 356 372 Z"
+          fill="url(#toneDeep-lipstick-rouge-velours)"/>
+    <path d="M372 498 L404 498 L404 340 C 404 318 396 308 388 302 Z"
+          fill="#FFFFFF" fill-opacity="0.22"/>
+    <rect x="352" y="700" width="96" height="3" rx="2" fill="#FFFFFF" fill-opacity="0.4"/>
+  </g>
+</svg>

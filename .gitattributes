@@ -1,0 +1,25 @@
+# Normalise line endings so a Windows working tree and a Linux CI/vercel build
+# agree. Everything is LF in the repository.
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary assets
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.avif binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
+
+# Keep generated SQL and lockfiles diff-friendly
+package-lock.json -diff linguist-generated=true
+supabase/seed.sql linguist-generated=true
+public/products/*.svg linguist-generated=true
+public/collections/*.svg linguist-generated=true

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" width="1200" height="1400" role="img" aria-label="Velvet Essence editorial still life">
+  <defs>
+    <linearGradient id="hb" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#FFF6F1"/>
+      <stop offset="0.55" stop-color="#FCE7E6"/>
+      <stop offset="1" stop-color="#F0C2C4"/>
+    </linearGradient>
+    <radialGradient id="hh" cx="0.42" cy="0.3" r="0.7">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.5" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="hr" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#D7848C"/>
+      <stop offset="1" stop-color="#96525D"/>
+    </linearGradient>
+    <linearGradient id="hw" x1="0" y1="0" x2="1" y2="0.5">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EFDCD6"/>
+    </linearGradient>
+    <radialGradient id="hf" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1400" fill="url(#hb)"/>
+  <circle cx="520" cy="430" r="470" fill="url(#hh)"/>
+  <ellipse cx="600" cy="1180" rx="430" ry="66" fill="url(#hf)"/>
+  <path d="M-40 980 C 260 880, 420 1120, 700 1050 C 940 990, 1080 1180, 1240 1100 L 1240 1420 L -40 1420 Z" fill="#FFFFFF" fill-opacity="0.4"/>
+
+  <g opacity="0.55" fill="url(#hr)">
+    <path d="M212 336 c 34 -40 88 -28 92 16 c 4 40 -40 68 -76 52 c -25 -11 -31 -45 -16 -68 z"/>
+    <path d="M980 470 c 30 -34 78 -24 80 16 c 3 34 -36 60 -68 45 c -21 -10 -25 -40 -12 -61 z"/>
+    <path d="M250 812 c 26 -30 68 -21 70 14 c 3 30 -32 52 -60 39 c -19 -9 -22 -34 -10 -53 z"/>
+  </g>
+
+  <!-- tall flacon -->
+  <g>
+    <rect x="606" y="392" width="96" height="70" rx="10" fill="url(#hg)"/>
+    <rect x="626" y="248" width="56" height="156" rx="12" fill="url(#hg)"/>
+    <path d="M516 496 C 516 460 550 444 664 444 C 778 444 812 460 812 496 L 812 812 C 812 852 782 870 664 870 C 546 870 516 852 516 812 Z" fill="url(#hw)"/>
+    <path d="M540 570 C 540 546 562 532 664 532 C 766 532 788 546 788 570 L 788 790 C 788 816 762 830 664 830 C 566 830 540 816 540 790 Z" fill="url(#hr)" opacity="0.9"/>
+    <path d="M516 496 C 516 460 550 444 664 444 C 778 444 812 460 812 496 L 812 812 C 812 852 782 870 664 870 C 546 870 516 852 516 812 Z" fill="none" stroke="url(#hg)" stroke-width="6"/>
+    <rect x="552" y="536" width="30" height="270" rx="15" fill="#FFFFFF" fill-opacity="0.62"/>
+    <rect x="588" y="636" width="152" height="120" rx="12" fill="#FFFFFF" fill-opacity="0.78"/>
+    <text x="664" y="716" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="6" fill="url(#hg)">VE</text>
+  </g>
+
+  <!-- lipstick -->
+  <g transform="translate(-118 88) scale(0.94)">
+    <rect x="176" y="700" width="118" height="230" rx="22" fill="url(#hg)"/>
+    <rect x="188" y="636" width="94" height="86" rx="10" fill="url(#hw)"/>
+    <path d="M192 648 L278 648 L278 520 C 278 474 240 450 236 450 C 232 450 192 474 192 520 Z" fill="url(#hr)"/>
+    <path d="M206 646 L236 646 L236 494 C 236 472 228 462 220 456 Z" fill="#FFFFFF" fill-opacity="0.26"/>
+  </g>
+
+  <!-- compact -->
+  <g transform="translate(300 520) scale(0.56)">
+    <circle cx="400" cy="640" r="196" fill="url(#hw)"/>
+    <circle cx="400" cy="640" r="196" fill="none" stroke="url(#hg)" stroke-width="8"/>
+    <circle cx="400" cy="640" r="160" fill="#E5A3A8" opacity="0.92"/>
+    <path d="M400 480 A 160 160 0 0 1 560 640 L 400 640 Z" fill="#FFFFFF" fill-opacity="0.24"/>
+    <g stroke="url(#hg)" stroke-width="4" fill="none" opacity="0.7">
+      <circle cx="400" cy="640" r="112"/>
+      <circle cx="400" cy="640" r="66"/>
+    </g>
+  </g>
+
+  <!-- palette -->
+  <g transform="translate(-330 470) scale(0.62) rotate(-8 400 580)">
+    <rect x="166" y="386" width="468" height="392" rx="44" fill="url(#hw)"/>
+    <rect x="166" y="386" width="468" height="392" rx="44" fill="none" stroke="url(#hg)" stroke-width="8"/>
+    <rect x="192" y="412" width="416" height="216" rx="26" fill="#FFFFFF" fill-opacity="0.5"/>
+    <rect x="216" y="452" width="84" height="84" rx="20" fill="#F6DADA"/>
+    <rect x="318" y="452" width="84" height="84" rx="20" fill="#E7B0A5"/>
+    <rect x="420" y="452" width="84" height="84" rx="20" fill="#C67A6D"/>
+    <rect x="522" y="452" width="84" height="84" rx="20" fill="#96525D"/>
+    <rect x="216" y="592" width="84" height="84" rx="20" fill="#E3CD9C"/>
+    <rect x="318" y="592" width="84" height="84" rx="20" fill="#D79184"/>
+    <rect x="420" y="592" width="84" height="84" rx="20" fill="#B76E79"/>
+    <rect x="522" y="592" width="84" height="84" rx="20" fill="#653740"/>
+  </g>
+</svg>

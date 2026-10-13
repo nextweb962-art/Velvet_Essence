@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="jar peony cream">
+  <defs>
+    <linearGradient id="bg-jar-peony-cream" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FDF5F3"/>
+      <stop offset="1" stop-color="#EFC7C0"/>
+    </linearGradient>
+    <radialGradient id="halo-jar-peony-cream" cx="0.5" cy="0.36" r="0.62">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold-jar-peony-cream" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F3DFBB"/>
+      <stop offset="0.46" stop-color="#D9B173"/>
+      <stop offset="1" stop-color="#A9834A"/>
+    </linearGradient>
+    <linearGradient id="body-jar-peony-cream" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.4" stop-color="#FDF7F4"/>
+      <stop offset="1" stop-color="#EBD9D3"/>
+    </linearGradient>
+    <linearGradient id="tone-jar-peony-cream" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#FEF7F7"/>
+      <stop offset="1" stop-color="#F6DADA"/>
+    </linearGradient>
+    <linearGradient id="toneDeep-jar-peony-cream" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6DADA"/>
+      <stop offset="1" stop-color="#E5A3A8"/>
+    </linearGradient>
+    <radialGradient id="floor-jar-peony-cream" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5D464E" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#5D464E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gloss-jar-peony-cream" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg-jar-peony-cream)"/>
+  <circle cx="400" cy="360" r="350" fill="url(#halo-jar-peony-cream)"/>
+  <path d="M-40 690 C 180 600, 250 820, 430 780 C 620 738, 700 900, 860 830 L 860 1010 L -40 1010 Z"
+        fill="#FFFFFF" fill-opacity="0.42"/>
+  <ellipse cx="400" cy="818" rx="215" ry="42" fill="url(#floor-jar-peony-cream)"/>
+  <g fill="url(#tone-jar-peony-cream)" opacity="0.5">
+    <path d="M164 268 c 26 -30 66 -22 70 12 c 3 30 -30 52 -58 40 c -19 -8 -24 -34 -12 -52 z"/>
+    <path d="M636 322 c 22 -26 58 -18 60 12 c 2 26 -27 45 -51 34 c -16 -7 -19 -30 -9 -46 z"/>
+    <path d="M214 604 c 18 -22 49 -15 51 10 c 2 22 -23 38 -43 29 c -14 -6 -17 -25 -8 -39 z"/>
+    <path d="M648 640 c 16 -20 44 -13 45 9 c 2 20 -20 34 -38 26 c -13 -6 -15 -23 -7 -35 z"/>
+  </g>
+  <g>
+    <rect x="256" y="558" width="288" height="234" rx="40" fill="url(#body-jar-peony-cream)"/>
+    <rect x="256" y="558" width="288" height="234" rx="40" fill="none" stroke="url(#gold-jar-peony-cream)" stroke-width="4"/>
+    <path d="M256 690 L544 690 L544 752 C544 776 516 792 400 792 C284 792 256 776 256 752 Z"
+          fill="url(#tone-jar-peony-cream)" opacity="0.5"/>
+    <rect x="242" y="456" width="316" height="122" rx="34" fill="url(#gold-jar-peony-cream)"/>
+    <rect x="256" y="470" width="288" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.26"/>
+    <ellipse cx="400" cy="456" rx="158" ry="26" fill="url(#gold-jar-peony-cream)"/>
+    <ellipse cx="400" cy="456" rx="158" ry="26" fill="#FFFFFF" fill-opacity="0.14"/>
+    
+  <g transform="translate(400 730) scale(0.9)" opacity="0.9">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="34" letter-spacing="6" fill="url(#gold-jar-peony-cream)">VE</text>
+  </g>
+  </g>
+</svg>
